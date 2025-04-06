@@ -1,1 +1,1 @@
-hello, this is initial line.
+hello, this is initial line.\nthis is another line in the existing file added after cloning.
